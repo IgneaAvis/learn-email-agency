@@ -7,12 +7,15 @@
 
     <mj-include path="global/attributes.mjml" />
     <mj-include path="global/style-inline.mjml" />
-    <!-- <mj-include path="global/style.mjml" /> -->
+    <mj-include path="global/style.mjml" />
 
     <mj-include path="components/spacer/spacer-attributes.mjml" />
 
     <mj-include path="components/button/button-inline.mjml" />
     <mj-include path="components/button/button-style.mjml" />
+
+    <mj-include path="components/button-header/button-inline.mjml" />
+    <mj-include path="components/button-header/button-style.mjml" />
 
     <mj-raw>
       <meta name="color-scheme" content="light dark">
@@ -21,23 +24,24 @@
 
   </mj-head>
 
-  <mj-body css-class="body"
-           background-color="#efefef">
+  <mj-body css-class="body">
 
-    <mj-include path="views/views-menu.mjml" />
-    <mj-include path="views/views-header.mjml" />
-    <mj-include path="views/views-pluse.mjml" />
-    <mj-include path="views/views-process.mjml" />
-    <mj-include path="views/views-rounds.mjml" />
-    <mj-include path="views/views-team.mjml" />
-    <mj-include path="views/views-phylosophy.mjml" />
-    <mj-include path="views/views-comments.mjml" />
-    <mj-include path="views/views-readmore.mjml" />
-    <mj-include path="views/views-tech.mjml" />
-    <mj-include path="views/views-contactus.mjml" />
-    <mj-include path="views/views-addings.mjml" />
-    <mj-include path="views/views-footer.mjml" />
-    <mj-include path="views/views-underfooter.mjml" />
+    <mj-wrapper mj-class="main-wrapper" css-class="main-wrapper">
+      <mj-include path="views/views-menu.mjml" />
+      <mj-include path="views/views-header.mjml" />
+      <mj-include path="views/views-pluse.mjml" />
+      <mj-include path="views/views-process.mjml" />
+      <mj-include path="views/views-rounds.mjml" />
+      <mj-include path="views/views-team.mjml" />
+      <mj-include path="views/views-phylosophy.mjml" />
+      <mj-include path="views/views-comments.mjml" />
+      <mj-include path="views/views-readmore.mjml" />
+      <mj-include path="views/views-tech.mjml" />
+      <mj-include path="views/views-contactus.mjml" />
+      <mj-include path="views/views-addings.mjml" />
+      <mj-include path="views/views-footer.mjml" />
+      <mj-include path="views/views-underfooter.mjml" />
+    </mj-wrapper>
 
   </mj-body>
 

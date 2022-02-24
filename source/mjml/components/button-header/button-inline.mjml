@@ -1,0 +1,67 @@
+<mj-style inline="inline">
+  .button {
+    padding: 0px 0px !important;
+    /* height: 44px !important; */
+
+    font-size: 0px !important;
+    word-break: break-word !important;
+
+    border-collapse: collapse !important;
+
+    mso-table-rspace: 0pt !important;
+    mso-table-lspace: 0pt !important;
+  }
+
+  .button > table {
+    width: 250px !important;
+    /* height: 44px !important; */
+
+    line-height: 100% !important;
+
+    border-collapse: separate !important;
+
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+  }
+
+  .button > table > tr > td {
+    padding: 0px !important;
+
+    font-style: normal !important;
+
+    border: none !important;
+    border-radius: 50px !important;
+
+    border-collapse: collapse !important;
+    cursor: auto !important;
+
+    mso-padding-alt: 10px 10px !important;
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+  }
+
+  .button > table > tr > td > a {
+    display: inline-block !important;
+    width: 250px !important;
+
+    margin: 0 !important;
+    padding: 10px 10px !important;
+
+    color: #ffffff !important;
+    font-weight: normal !important;
+    font-size: 16px !important;
+
+    font-family: Helvetica, Arial, sans-serif !important;
+    font-style: normal !important;
+    line-height: 24px !important;
+    text-transform: none !important;
+    text-decoration: none !important;
+
+    background-color: #f7e110 !important;
+
+    border-radius: 50px !important;
+
+    mso-padding-alt: 0px !important;
+  }
+
+</mj-style>

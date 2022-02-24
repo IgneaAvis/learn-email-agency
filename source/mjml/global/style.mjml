@@ -10,6 +10,10 @@
 }
 
 /* media */
+.views-header__button:hover a{
+  color: #f7e110 !important;
+  background-color: #000000 !important;
+}
 
 @media screen and (max-width: 479px) {
 
@@ -21,10 +25,13 @@
 
 /* black-theme rule media */
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: light) {
 
   .body {
-    background-color: #3a3a3a !important;
+    background-image: url('/image/img-agency-main-bg.jpg') !important;
+    background-repeat: no-repeat !important;
+    background-attachment: local !important;
+    background-size: 100% auto !important;
   }
 
   .wrapper > table,
@@ -46,7 +53,7 @@
   .divider > p {
     border-top: 1px solid #838383 !important;
   }
-}
+} */
 
 /* black-theme rule attr */
 

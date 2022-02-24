@@ -1,5 +1,4 @@
-<mj-wrapper>
-  <mj-section mj-class="views-team" css-class="views-team">
+<mj-section mj-class="views-team" css-class="views-team">
   <mj-column mj-class="views-team__column" css-class="views-team__column">
     <mj-text mj-class="views-team__text" css-class="views-team__text"><p>OUR TEAM</p></mj-text>
   </mj-column>
@@ -38,4 +37,3 @@
     <mj-image src="{{{views-team__img7.src}}}" alt="{{{views-team__img7.alt}}}" href="{{{views-team__img7.href}}}" title="{{{views-team__img7.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
 </mj-section>
-</mj-wrapper>

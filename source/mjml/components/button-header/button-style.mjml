@@ -1,0 +1,36 @@
+<mj-style>
+
+/* global style in&nbsp;head */
+
+/* media */
+.button--1:hover a{
+  color: #f7e110 !important;
+  background-color: #000000 !important;
+}
+
+@media screen and (max-width: 479px) {
+
+}
+
+@media screen and (min-width: 480px) {
+
+}
+
+/* black-theme rule media */
+
+@media (prefers-color-scheme: dark) {
+  .button > table > tr > td > a {
+    color: #ffffff !important;
+    background-color: #f7e110 !important;
+  }
+}
+
+/* black-theme rule attr */
+
+[data-ogsc] .button > table > tr > td > a,
+[data-ogsb] .button > table > tr > td > a {
+  color: #ffffff !important;
+  background-color: #f7e110 !important;
+}
+
+</mj-style>

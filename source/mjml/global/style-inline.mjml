@@ -73,11 +73,48 @@
 
   /* blocks */
   .views-menu{
-    background-color:#000000;
+    background-color:#000000 !important;
+    min-height: 62px !important;
   }
-  /* Доделать лого до нормального! */
+  .mj-inline-links{
+    padding-top: 0 !important;
+    text-align: right;
+  }
   .views-menu__image img{
-    padding-top: 30%;
+    padding-top: 14px;
+  }
+
+  /* .mj-menu-trigger{
+  } */
+
+  .mj-inline-links a{
+    display: inline-block !important;
+    color: #ffffff !important;
+    font-size: 12px !important;
+    font-weight: normal !important;
+    line-height: 22px !important;
+    text-decoration: none !important;
+    text-transform: uppercase !important;
+    padding: 10px 20px !important;
+  }
+  .views-header{
+    background-image: url('/image/img-agency-headerbg.jpg') !important;
+    background-repeat: no-repeat !important;
+    background-position: center;
+  }
+  .views-header__image img{
+    width: 160px !important;
+  }
+  .views-header__text p{
+    font-size: 35px !important;
+  }
+
+  .views-header__text p:last-child{
+    padding-top: 10px !important;
+  }
+
+  .views-process__title p{
+    color: #000000 !important;
   }
 
 </mj-style>
