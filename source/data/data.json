@@ -149,6 +149,56 @@
     "title": "text",
     "alt": "text"
   },
+  "views-comments__image": {
+    "src": "../image/img-agency-quotes.png",
+    "alt": "text"
+  },
+
+  "views-comments__image1": {
+    "src": "../image/img-agency-quotes.png",
+    "alt": "text"
+  },
+
+  "views-comments__image2": {
+    "src": "../image/img-agency-divider.png",
+    "alt": "text"
+  },
+
+  "views-tech__image": {
+    "src": "../image/img-agency-screens.png",
+    "alt": "text"
+  },
+
+  "views-footer__image": {
+    "src": "../image/img-agency-logo.png",
+    "alt": "text"
+  },
+
+  "views-footer__phone": {
+    "href": "https://www.google.com/",
+    "title": "text"
+  },
+
+  "views-footer__email": {
+    "href": "https://www.google.com/",
+    "title": "text"
+  },
+
+  "views-footer__social-element": {
+    "src": "../image/img-agency-email.png",
+    "href": "https://www.google.com/",
+    "alt": "text"
+  },
+  "views-footer__social-element1": {
+    "src": "../image/img-agency-link.png",
+    "href": "https://www.google.com/",
+    "alt": "text"
+  },
+
+  "views-underfooter__text": {
+    "href": "https://www.google.com/",
+    "title": "text"
+  },
 
   "button--1": {
     "src": "",

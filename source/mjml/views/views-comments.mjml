@@ -1,0 +1,22 @@
+<mj-section mj-class="views-comments" css-class="views-comments">
+  <mj-column mj-class="views-comments__column" css-class="views-comments__column">
+    <mj-text mj-class="views-comments__text h2" css-class="views-comments__text">
+      <p>STUFF PEOPLE SAY</p>
+    </mj-text>
+    <mj-image src="{{{views-comments__image.src}}}" alt="{{{views-comments__image.alt}}}" mj-class="views-comments__image" css-class="views-comments__image"/>
+    <mj-text mj-class="views-comments__text" css-class="views-comments__text">
+      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </mj-text>
+    <mj-text mj-class="views-comments__author" css-class="views-comments__author">
+      <p>— Andy Hug</p>
+    </mj-text>
+    <mj-image src="{{{views-comments__image.src}}}" alt="{{{views-comments__image.alt}}}" mj-class="views-comments__image1" css-class="views-comments__image1"/>
+    <mj-text mj-class="views-comments__text1" css-class="views-comments__text1">
+      <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </mj-text>
+    <mj-text mj-class="views-comments__author1" css-class="views-comments__author1">
+      <p>— Mike Bernardo</p>
+    </mj-text>
+    <mj-image src="{{{views-comments__image.src}}}" alt="{{{views-comments__image.alt}}}" mj-class="views-comments__image2" css-class="views-comments__image2"/>
+  </mj-column>
+</mj-section>

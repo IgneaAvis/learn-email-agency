@@ -1,0 +1,12 @@
+<mj-section mj-class="views-footer" css-class="views-footer" >
+  <mj-column mj-class="views-footer__column" css-class="views-footer__column">
+    <mj-image src="{{{views-footer__image.src}}}" alt="{{{views-footer__image.alt}}}" mj-class="views-footer__image" css-class="views-footer__image"/>
+    <mj-text mj-class="views-footer__phone" css-class="views-footer__phone"><p><a href="{{{views-footer__phone.href}}}" title="{{{views-footer__phone.title}}}">+1010101010</a></p></mj-text>
+    <mj-text mj-class="views-footer__email" css-class="views-footer__email"><p><a href="{{{views-footer__email.href}}}" title="{{{views-footer__email.title}}}">example@gmail.com</a></p></mj-text>
+    <mj-text mj-class="views-footer__address" css-class="views-footer__address"><p>Japan, 69, Main Street</p></mj-text>
+    <mj-social mj-class="views-footer__social" css-class="views-footer__social">
+      <mj-social-element mj-class="views-footer__social-element" css-class="views-footer__social-element" src="{{{views-footer__social-element.src}}}" alt="{{{views-footer__social-element.alt}}}" href="{{{views-footer__social-element.href}}}"></mj-social-element>
+      <mj-social-element mj-class="views-footer__social-element1" css-class="views-footer__social-element1" src="{{{views-footer__social-element1.src}}}" alt="{{{views-footer__social-element1.alt}}}" href="{{{views-footer__social-element1.href}}}"></mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>

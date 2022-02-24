@@ -7,7 +7,7 @@
 
     <mj-include path="global/attributes.mjml" />
     <mj-include path="global/style-inline.mjml" />
-    <mj-include path="global/style.mjml" />
+    <!-- <mj-include path="global/style.mjml" /> -->
 
     <mj-include path="components/spacer/spacer-attributes.mjml" />
 
@@ -31,6 +31,13 @@
     <mj-include path="views/views-rounds.mjml" />
     <mj-include path="views/views-team.mjml" />
     <mj-include path="views/views-phylosophy.mjml" />
+    <mj-include path="views/views-comments.mjml" />
+    <mj-include path="views/views-readmore.mjml" />
+    <mj-include path="views/views-tech.mjml" />
+    <mj-include path="views/views-contactus.mjml" />
+    <mj-include path="views/views-addings.mjml" />
+    <mj-include path="views/views-footer.mjml" />
+    <mj-include path="views/views-underfooter.mjml" />
 
   </mj-body>
 
