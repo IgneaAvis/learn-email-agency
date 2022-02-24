@@ -125,6 +125,31 @@
     "alt": "text"
   },
 
+  "views-counts__image": {
+    "src": "../image/img-agency-adv-likes.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-counts__image1": {
+    "src": "../image/img-agency-adv-comments.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-counts__image2": {
+    "src": "../image/img-agency-adv-awards.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-counts__image3": {
+    "src": "../image/img-agency-adv-coffees.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
   "button--1": {
     "src": "",
     "href": "https://www.google.com/",
