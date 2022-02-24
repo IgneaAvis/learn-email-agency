@@ -88,6 +88,7 @@
                                              background-repeat="no-repeat"
                                              background-attachment="local"
                                              background-size="100% auto"/>
+  <mj-class name="views-header__text"        color="#ffffff"/>
   <mj-class name="views-header__image"       width="64px" />
   <mj-class name="views-pluse__image"        width="106px"/>
   <mj-class name="views-header__button"      width="274px"
@@ -116,6 +117,30 @@
                                              line-height="22px";
                                              text-align="center";
                                              color="#ffffff";/>
+  <mj-class name="views-process__title"      color="#555555"/>
   <mj-class name="views-process"             background-color="#ffffff"/>
+  <mj-class name="views-process__column1"    padding="10px 20px"/>
+  <mj-class name="views-process__title"      color="#555555"
+                                             align="left"
+                                             font-size="24px";
+                                             font-weight="700";
+                                             line-height="36px";/>
+  <mj-class name="views-process__text1"      color="#555555"
+                                             align="left"
+                                             font-size="14px";
+                                             line-height="22px";/>
+  <mj-class name="views-process__text2"      color="#555555"
+                                             align="left"
+                                             font-size="14px";
+                                             line-height="22px";/>
+  <mj-class name="views-rounds"              background-color="#f7e110"/>
+  <mj-class name="views-rounds__image"       width="96px"/>
+  <mj-class name="views-rounds__text"        font-size="12px";
+                                             font-weight="700";
+                                             line-height="22px";
+                                             text-align:"center";
+                                             text-transform="uppercase";
+                                             color="#ffffff";
+                                             padding-top="15px"/>
 
 </mj-attributes>

@@ -112,9 +112,8 @@
   .views-header__text p:last-child{
     padding-top: 10px !important;
   }
-
-  .views-process__title p{
-    color: #000000 !important;
+  .mj-menu-icon-open span{
+    text-align: right;
   }
 
 </mj-style>

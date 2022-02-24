@@ -1,5 +1,6 @@
 <mj-section mj-class="views-menu pt10 pb10" css-class="views-menu">
-  <mj-column width="20%" mj-class="views-menu__column" css-class="views-menu__column">
+  <mj-group>
+    <mj-column width="20%" mj-class="views-menu__column" css-class="views-menu__column">
     <mj-image mj-class="views-menu__image" css-class="views-menu__image" width="64px" src="{{{views-menu__img.src}}}" alt="{{{views-menu__img.alt}}}" href="{{{views-menu__img.href}}}" title="{{{views-menu__img.title}}}"/>
   </mj-column>
   <mj-column width="80%" mj-class="views-menu__column-menu" css-class="views-menu__column-menu">
@@ -9,4 +10,5 @@
       <mj-navbar-link  href="/gettings-started-onboard" mj-class="views-menu__nav-link" css-class="views-menu__nav-link">Contact</mj-navbar-link>
     </mj-navbar>
   </mj-column>
+  </mj-group>
 </mj-section>

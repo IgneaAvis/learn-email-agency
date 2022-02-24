@@ -25,17 +25,10 @@
 
 /* black-theme rule media */
 
-/* @media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: dark) {
 
-  .body {
-    background-image: url('/image/img-agency-main-bg.jpg') !important;
-    background-repeat: no-repeat !important;
-    background-attachment: local !important;
-    background-size: 100% auto !important;
-  }
-
-  .wrapper > table,
-  .wrapper {
+  .main-wrapper > table,
+  .main-wrapper {
     background-color: #333333 !important;
   }
 
