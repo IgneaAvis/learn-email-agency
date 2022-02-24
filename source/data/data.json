@@ -7,8 +7,119 @@
     "content": "preheader &nbsp;&zwnj;"
   },
 
-  "views-title__img": {
-    "src": "https://via.placeholder.com/150x80?text=title+image",
+  "views-menu__img": {
+    "src": "../image/img-agency-logo.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-header__img": {
+    "src": "../image/img-agency-outsidebox.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-pluse__img": {
+    "src": "../image/img-agency-adv-innovative.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-pluse__img1": {
+    "src": "../image/img-agency-adv-creative.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-pluse__img2": {
+    "src": "../image/img-agency-adv-strategic.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-process__img": {
+    "src": "../image/img-agency-vignette.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-rounds__img": {
+    "src": "../image/img-agency-adv-web.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-rounds__img1": {
+    "src": "../image/img-agency-adv-digital.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-rounds__img2": {
+    "src": "../image/img-agency-adv-print.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+  "views-rounds__img3": {
+    "src": "../image/img-agency-adv-social.png",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img": {
+    "src": "../image/img-agency-team1.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img1": {
+    "src": "../image/img-agency-team1.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img2": {
+    "src": "../image/img-agency-team1.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img3": {
+    "src": "../image/img-agency-team1.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img4": {
+    "src": "../image/img-agency-team1.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img5": {
+    "src": "../image/img-agency-team1.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img6": {
+    "src": "../image/img-agency-team1.jpg",
+    "href": "https://www.google.com/",
+    "title": "text",
+    "alt": "text"
+  },
+
+  "views-team__img7": {
+    "src": "../image/img-agency-team1.jpg",
     "href": "https://www.google.com/",
     "title": "text",
     "alt": "text"
@@ -19,15 +130,5 @@
     "href": "https://www.google.com/",
     "title": "text",
     "bgcolor": "#838383"
-  },
-
-  "views-footer-link-1": {
-    "href": "https://www.google.com/",
-    "title": "text"
-  },
-
-  "views-unsubscribe": {
-    "href": "{{ unsubscribe_link }}",
-    "title": "text"
   }
 }

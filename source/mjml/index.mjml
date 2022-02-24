@@ -24,18 +24,13 @@
   <mj-body css-class="body"
            background-color="#efefef">
 
-  <mj-include path="components/spacer/spacer.mjml" />
-
-  <mj-wrapper mj-class="wrapper"
-              css-class="wrapper">
-
-    <mj-include path="views/views-title.mjml" />
-
+    <mj-include path="views/views-menu.mjml" />
     <mj-include path="views/views-header.mjml" />
-
-  </mj-wrapper>
-
-  <mj-include path="views/views-footer.mjml" />
+    <mj-include path="views/views-pluse.mjml" />
+    <mj-include path="views/views-process.mjml" />
+    <mj-include path="views/views-rounds.mjml" />
+    <mj-include path="views/views-team.mjml" />
+    <mj-include path="views/views-phylosophy.mjml" />
 
   </mj-body>
 

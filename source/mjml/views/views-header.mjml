@@ -1,21 +1,10 @@
-<mj-section mj-class="views-header"
-          css-class="views-header">
-
-  <mj-column mj-class="views-header__column container pb60"
-            css-class="views-header__column container pb60">
-
-    <mj-text mj-class="views-header__caption h1"
-            css-class="views-header__caption h1">
-      <p>Caption</p>
+<mj-section mj-class="views-header" css-class="views-header">
+  <mj-column mj-class="views-header__column container pt10 pb30" css-class="views-header__column container">
+    <mj-image mj-class="views-header__image pt10 pb10" css-class="views-header__image" width="64px" src="{{{views-header__img.src}}}" alt="{{{views-header__img.alt}}}" href="{{{views-header__img.href}}}" title="{{{views-header__img.title}}}" />
+    <mj-text mj-class="views-header__text h1 pt10 pb10" css-class="views-header__text">
+    <p>We work outside</p>
+    <p>of the box.</p>
     </mj-text>
-
-    <mj-text mj-class="views-header__text"
-            css-class="views-header__text">
-      <p>Nap all day cat dog hate mouse eat string barf pillow no&nbsp;baths hate everything but kitty poochy. Sleep on&nbsp;keyboard toy mouse squeak roll over. Mesmerizing birds. Poop on&nbsp;grasses licks paws destroy couch intently sniff hand. The dog smells bad gnaw the corn cob.</p>
-    </mj-text>
-
-    <mj-include path="../components/button/button.mjml" />
-
+    <mj-include path="../components/button/button.mjml" mj-class="views-header__button pt10 pb10" css-class="views-header__button" />
   </mj-column>
-
 </mj-section>

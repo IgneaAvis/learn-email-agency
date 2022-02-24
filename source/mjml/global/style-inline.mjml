@@ -72,18 +72,12 @@
   }
 
   /* blocks */
-
-  /* title */
-
-  .views-title__img img {
-    border-top-left-radius: 20px !important;
-    border-top-right-radius: 20px !important;
+  .views-menu{
+    background-color:#000000;
   }
-
-  /*footer*/
-
-  .views-footer__text a {
-    color: #838383 !important;
+  /* Доделать лого до нормального! */
+  .views-menu__image img{
+    padding-top: 30%;
   }
 
 </mj-style>
