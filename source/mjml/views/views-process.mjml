@@ -5,7 +5,7 @@
     <mj-column mj-class="views-process__column1" css-class="views-process__column1">
     <mj-text mj-class="views-process__title pt40" css-class="views-process__title small"><p>
 Our Process</p></mj-text>
-    <mj-text mj-class="views-process__text1" css-class="views-process__text1 small"><p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-text>
-    <mj-text mj-class="views-process__text2" css-class="views-process__text2 small"><p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-text>
+    <mj-text mj-class="views-process__text1" css-class="views-process__text1 small"><p>Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
+    <mj-text mj-class="views-process__text2" css-class="views-process__text2 small"><p>Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
   </mj-column>
 </mj-section>

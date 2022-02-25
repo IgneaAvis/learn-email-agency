@@ -1,5 +1,5 @@
 <mj-section mj-class="views-underfooter pt10 pb10" css-class="views-underfooter">
   <mj-column mj-class="views-underfooter__column" css-class="views-underfooter__column">
-    <mj-text mj-class="views-underfooter__text pt10" css-class="views-underfooter__text"><p>Created by <a href="{{{views-underfooter__text.href}}}" title="{{{views-underfooter__text.title}}}">typenote.io</a></p></mj-text>
+    <mj-text mj-class="views-underfooter__text pt10" css-class="views-underfooter__text"><p>Created by&nbsp;<a href="{{{views-underfooter__text.href}}}" title="{{{views-underfooter__text.title}}}">typenote.io</a></p></mj-text>
   </mj-column>
 </mj-section>

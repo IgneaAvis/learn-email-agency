@@ -2,19 +2,19 @@
   <mj-column mj-class="views-pluse__column" css-class="views-pluse__column container">
     <mj-image mj-class="views-pluse__image" css-class="views-pluse__image" src="{{{views-pluse__img.src}}}" alt="{{{views-pluse__img.alt}}}" href="{{{views-pluse__img.href}}}" title="{{{views-pluse__img.title}}}" />
     <mj-text mj-class="views-pluse__header pt20" css-class="views-pluse__header pt20"><p>Innovative</p></mj-text>
-    <mj-text mj-class="views-pluse__text" css-class="views-pluse__text"><p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-text>
+    <mj-text mj-class="views-pluse__text" css-class="views-pluse__text"><p>Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
      <mj-button mj-class="views-pluse__button pt20" css-class="views-pluse__button" href="https://vk.com">Read more</mj-button>
   </mj-column>
   <mj-column mj-class="views-pluse__column1" css-class="views-pluse__column1 container">
     <mj-image mj-class="views-pluse__image" css-class="views-pluse__image" src="{{{views-pluse__img1.src}}}" alt="{{{views-pluse__img1.alt}}}" href="{{{views-pluse__img1.href}}}" title="{{{views-pluse__img1.title}}}" />
     <mj-text mj-class="views-pluse__header pt20" css-class="views-pluse__header pt20"><p>Creative</p></mj-text>
-    <mj-text mj-class="views-pluse__text" css-class="views-pluse__text"><p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-text>
+    <mj-text mj-class="views-pluse__text" css-class="views-pluse__text"><p>Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
     <mj-button mj-class="views-pluse__button pt20" css-class="views-pluse__button" href="https://vk.com">Read more</mj-button>
   </mj-column>
   <mj-column mj-class="views-pluse__column2" css-class="views-pluse__column2 container">
     <mj-image mj-class="views-pluse__image" css-class="views-pluse__image" src="{{{views-pluse__img2.src}}}" alt="{{{views-pluse__img2.alt}}}" href="{{{views-pluse__img2.href}}}" title="{{{views-pluse__img2.title}}}" />
     <mj-text mj-class="views-pluse__header pt20" css-class="views-pluse__header pt20"><p>Strategic</p></mj-text>
-    <mj-text mj-class="views-pluse__text" css-class="views-pluse__text"><p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-text>
+    <mj-text mj-class="views-pluse__text" css-class="views-pluse__text"><p>Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
     <mj-button mj-class="views-pluse__button pt20" css-class="views-pluse__button" href="https://vk.com">Read more</mj-button>
   </mj-column>
 </mj-section>

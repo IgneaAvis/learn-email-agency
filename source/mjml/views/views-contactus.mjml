@@ -1,12 +1,12 @@
 <mj-section mj-class="views-contactus pt20 pb30" css-class="views-contactus">
   <mj-column mj-class="views-contactus__column container" css-class="views-contactus__column container">
       <mj-text mj-class="views-contactus__title h2" css-class="views-contactus__title h2">
-        <p>We can't wait to hear from you!</p>
+        <p>We&nbsp;can&rsquo;t wait to&nbsp;hear from you!</p>
       </mj-text>
   </mj-column>
   <mj-column>
     <mj-text mj-class="views-contactus__text small" css-class="views-contactus__text h2">
-        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p>
       </mj-text>
       <mj-button href="#" mj-class="views-contactus__button" css-class="views-contactus__button">Contact us</mj-button>
   </mj-column>

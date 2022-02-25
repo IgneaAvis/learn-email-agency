@@ -3,7 +3,7 @@
     <mj-accordion mj-class="views-readmore__accordion" css-class="views-readmore__accordion">
       <mj-accordion-element mj-class="views-readmore__accordion-element" css-class="views-readmore__accordion-element">
         <mj-accordion-title mj-class="views-readmore__accordion-title" css-class="views-readmore__accordion-title"><p>Happy Clients</p></mj-accordion-title>
-        <mj-accordion-text mj-class="views-readmore__accordion-text" css-class="views-readmore__accordion-text"><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-accordion-text>
+        <mj-accordion-text mj-class="views-readmore__accordion-text" css-class="views-readmore__accordion-text"><p>Duis aute irure dolor in&nbsp;reprehenderit in&nbsp;voluptate velit esse cillum dolore eu&nbsp;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-accordion-text>
       </mj-accordion-element>
     </mj-accordion>
     <mj-button href="#" mj-class="views-readmore__button pb40 pt15" css-class="views-readmore__button">Read More</mj-button>
@@ -12,7 +12,7 @@
     <mj-accordion mj-class="views-readmore__accordion" css-class="views-readmore__accordion">
       <mj-accordion-element mj-class="views-readmore__accordion-element1" css-class="views-readmore__accordion-element1">
         <mj-accordion-title mj-class="views-readmore__accordion-title" css-class="views-readmore__accordion-title"><p>Proven Results</p></mj-accordion-title>
-        <mj-accordion-text mj-class="views-readmore__accordion-text" css-class="views-readmore__accordion-text"><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-accordion-text>
+        <mj-accordion-text mj-class="views-readmore__accordion-text" css-class="views-readmore__accordion-text"><p>Duis aute irure dolor in&nbsp;reprehenderit in&nbsp;voluptate velit esse cillum dolore eu&nbsp;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-accordion-text>
       </mj-accordion-element>
     </mj-accordion>
     <mj-button href="#" mj-class="views-readmore__button1 pb40 pt15" css-class="views-readmore__button1">Read More</mj-button>

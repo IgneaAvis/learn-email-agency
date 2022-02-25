@@ -7,8 +7,8 @@
               href="{{{views-header__img.href}}}"
               title="{{{views-header__img.title}}}" />
     <mj-text mj-class="views-header__text h1 pt10 pb20" css-class="views-header__text">
-    <p>We work outside</p>
-    <p>of the box.</p>
+    <p>We&nbsp;work outside</p>
+    <p>of&nbsp;the box.</p>
     </mj-text>
     <mj-button mj-class="views-header__button" css-class="views-header__button" href="https://vk.com">Download the free strategy guide</mj-button>
     <mj-button></mj-button>

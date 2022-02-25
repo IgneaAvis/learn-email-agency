@@ -1,8 +1,8 @@
 <mj-section mj-class="views-process" css-class="views-process">
   <mj-column mj-class="views-process__column1 pt60" css-class="views-process__column1">
     <mj-text mj-class="views-process__title" css-class="views-process__title small"><p>Our Phylosophy</p></mj-text>
-    <mj-text mj-class="views-process__text1" css-class="views-process__text1 small"><p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-text>
-    <mj-text mj-class="views-process__text2" css-class="views-process__text2 small"><p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></mj-text>
+    <mj-text mj-class="views-process__text1" css-class="views-process__text1 small"><p>Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
+    <mj-text mj-class="views-process__text2" css-class="views-process__text2 small"><p>Eiusmod tempor incididunt ut&nbsp;labore et&nbsp;dolore magna aliqua. proident, sunt in&nbsp;culpa qui officia deserunt mollit anim id&nbsp;est laborum.</p></mj-text>
   </mj-column>
   <mj-column mj-class="views-process__column" css-class="views-process__column">
     <mj-image mj-class="views-process__image" css-class="views-process__image" src="{{{views-process__img.src}}}" alt="{{{views-process__img.alt}}}" href="{{{views-process__img.href}}}" title="{{{views-process__img.title}}}" />
