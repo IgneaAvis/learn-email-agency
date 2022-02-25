@@ -1,4 +1,4 @@
-<mj-section mj-class="views-rounds" css-class="views-rounds">
+<mj-section mj-class="views-rounds pt25 pb25" css-class="views-rounds">
   <mj-group>
     <mj-column mj-class="views-rounds__column" css-class="views-rounds__column">
     <mj-image mj-class="views-rounds__image" css-class="views-rounds__image" src="{{{views-rounds__img.src}}}" alt="{{{views-rounds__img.alt}}}" href="{{{views-rounds__img.href}}}" title="{{{views-rounds__img.title}}}" />

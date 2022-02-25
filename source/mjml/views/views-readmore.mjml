@@ -1,4 +1,4 @@
-<mj-section mj-class="views-readmore pt10" css-class="views-readmore">
+<mj-section mj-class="views-readmore" css-class="views-readmore">
   <mj-column mj-class="views-readmore__column" css-class="views-readmore__column">
     <mj-accordion mj-class="views-readmore__accordion" css-class="views-readmore__accordion">
       <mj-accordion-element mj-class="views-readmore__accordion-element" css-class="views-readmore__accordion-element">

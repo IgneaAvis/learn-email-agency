@@ -1,6 +1,6 @@
 <mj-section mj-class="views-team pt10" css-class="views-team">
   <mj-column mj-class="views-team__column pt10" css-class="views-team__column">
-    <mj-text mj-class="views-team__text" css-class="views-team__text"><p>OUR TEAM</p></mj-text>
+    <mj-text mj-class="views-team__text h2" css-class="views-team__text small"><p>OUR TEAM</p></mj-text>
   </mj-column>
 </mj-section>
 <mj-section mj-class="views-team1" css-class="views-team1">

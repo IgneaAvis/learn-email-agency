@@ -36,8 +36,6 @@
 
   .body {
     min-width: 308px !important;
-    padding-right: 6px !important;
-    padding-left: 6px !important;
   }
 
   span,
@@ -80,12 +78,6 @@
     padding-top: 0 !important;
     text-align: right;
   }
-  .views-menu__image img{
-    padding-top: 14px;
-  }
-
-  /* .mj-menu-trigger{
-  } */
 
   .mj-inline-links a{
     display: inline-block !important;
@@ -142,5 +134,8 @@
   }
   .views-underfooter__text p a{
     color: #ffffff !important;
+  }
+  .main-wrapper{
+    background-color: #161614 !important;
   }
 </mj-style>

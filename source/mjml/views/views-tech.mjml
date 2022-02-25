@@ -1,6 +1,6 @@
 <mj-section mj-class="views-tech pt20 pb10" css-class="views-tech">
   <mj-column mj-class="views-tech__column container" css-class="views-tech__column container">
-    <mj-text mj-class="views-tech__title h2 pt10" css-class="views-tech__title">
+    <mj-text mj-class="views-tech__title h2 pt10" css-class="views-tech__title small">
       <p>We are a creative Agency.</p>
     </mj-text>
     <mj-text mj-class="views-tech__text small" css-class="views-tech__text small">

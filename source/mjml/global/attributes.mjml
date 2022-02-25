@@ -82,6 +82,11 @@
   <mj-class name="pt60"                      padding-top="60px" />
 
   <!-- blocks -->
+  <mj-class name="views-menu__nav"           align="right"
+                                             ico-align="right"
+                                             ico-font-size="18px"/>
+  <mj-class name="views-menu__column"        padding-left="20px"/>
+  <mj-class name="views-menu__image"         align="left"/>
 
   <mj-class name="main-wrapper"              background-url="/image/img-agency-main-bg.jpg"
                                              full-width="full-width"
@@ -205,6 +210,7 @@
                                              text-align="center";
                                              color="#555555";/>
   <!-- readmore -->
+  <mj-class name="views-readmore"            background-color="#ffffff"/>
   <mj-class name="views-readmore__column"    background-color="#f7e110";/>
   <mj-class name="views-readmore__column1"   background-color="#a1a1a1";/>
   <mj-class name="views-readmore__accordion" border="none";

@@ -1,6 +1,6 @@
 <mj-section mj-class="views-addings pt30 pb25" css-class="views-addings">
   <mj-column mj-class="views-addings__column" css-class="views-addings__column">
-    <mj-text mj-class="views-addings__title h2" css-class="views-addings__title">
+    <mj-text mj-class="views-addings__title h2" css-class="views-addings__title small">
       <p>Award Winning</p>
     </mj-text>
     <mj-text mj-class="views-addings__text small" css-class="views-addings__text small">
@@ -8,7 +8,7 @@
     </mj-text>
   </mj-column>
   <mj-column mj-class="views-addings__column1" css-class="views-addings__column1">
-    <mj-text mj-class="views-addings__title h2" css-class="views-addings__title">
+    <mj-text mj-class="views-addings__title h2" css-class="views-addings__title small">
       <p>World Class</p>
     </mj-text>
     <mj-text mj-class="views-addings__text small " css-class="views-addings__text small">
