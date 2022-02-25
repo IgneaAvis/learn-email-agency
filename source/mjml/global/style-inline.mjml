@@ -115,5 +115,32 @@
   .mj-menu-icon-open span{
     text-align: right;
   }
-
+  .mj-accordion-ico img{
+    width: 20px !important;
+  }
+  .first{
+    padding-bottom: 30px !important;
+  }
+  .views-contactus__text p {
+    color: #ffffff !important;
+  }
+  .views-footer__phone p a{
+    color: #555555 !important;
+    text-decoration: none !important;
+  }
+  .views-footer__email p a{
+    color: #555555 !important;
+    text-decoration: none !important;
+  }
+  .views-footer__address p{
+    color: #555555 !important;
+  }
+  .views-underfooter__text p{
+    color: #ffffff !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+  }
+  .views-underfooter__text p a{
+    color: #ffffff !important;
+  }
 </mj-style>

@@ -1,25 +1,27 @@
-<mj-section mj-class="views-counts" css-class="views-counts">
-  <mj-column mj-class="views-counts__column" css-class="views-counts__column">
+<mj-section mj-class="views-counts pt25" css-class="views-counts">
+ <mj-group>
+    <mj-column mj-class="views-counts__column" css-class="views-counts__column">
     <mj-image src="{{{views-counts__image.src}}}" alt="{{{views-counts__image.alt}}}" href="{{{views-counts__image.href}}}" title="{{{views-counts__image.title}}}" mj-class="views-counts__image" css-class="views-counts__image"/>
     <mj-text mj-class="views-counts__title" css-class="views-counts__title"><p>55K +</p></mj-text>
     <mj-text mj-class="views-counts__text" css-class="views-counts__text"><p>LIKES</p></mj-text>
   </mj-column>
 
   <mj-column mj-class="views-counts__column1" css-class="views-counts__column1">
-    <mj-image src="{{{views-counts__image.src}}}" alt="" href="" title="" mj-class="views-counts__image" css-class="views-counts__image"/>
+    <mj-image src="{{{views-counts__image1.src}}}" alt="{{{views-counts__image1.alt}}}" href="{{{views-counts__image1.href}}}" title="{{{views-counts__image1.title}}}" mj-class="views-counts__image" css-class="views-counts__image"/>
     <mj-text mj-class="views-counts__title" css-class="views-counts__title"><p>999 +</p></mj-text>
     <mj-text mj-class="views-counts__text" css-class="views-counts__text"><p>COMMENTS</p></mj-text>
   </mj-column>
 
   <mj-column mj-class="views-counts__column2" css-class="views-counts__column2">
-    <mj-image src="" alt="" href="" title="" mj-class="views-counts__image" css-class="views-counts__image"/>
+    <mj-image src="{{{views-counts__image2.src}}}" alt="{{{views-counts__image2.alt}}}" href="{{{views-counts__image2.href}}}" title="{{{views-counts__image2.title}}}" mj-class="views-counts__image" css-class="views-counts__image"/>
     <mj-text mj-class="views-counts__title" css-class="views-counts__title"><p>66 +</p></mj-text>
     <mj-text mj-class="views-counts__text" css-class="views-counts__text"><p>AWARDS</p></mj-text>
   </mj-column>
 
   <mj-column mj-class="views-counts__column3" css-class="views-counts__column3">
-    <mj-image src="" alt="" href="" title="" mj-class="views-counts__image" css-class="views-counts__image"/>
+    <mj-image src="{{{views-counts__image3.src}}}" alt="{{{views-counts__image3.alt}}}" href="{{{views-counts__image3.href}}}" title="{{{views-counts__image3.title}}}" mj-class="views-counts__image" css-class="views-counts__image"/>
     <mj-text mj-class="views-counts__title" css-class="views-counts__title"><p>33K +</p></mj-text>
     <mj-text mj-class="views-counts__text" css-class="views-counts__text"><p>COFFEE</p></mj-text>
   </mj-column>
+ </mj-group>
 </mj-section>

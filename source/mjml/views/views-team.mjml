@@ -1,10 +1,11 @@
-<mj-section mj-class="views-team" css-class="views-team">
-  <mj-column mj-class="views-team__column" css-class="views-team__column">
+<mj-section mj-class="views-team pt10" css-class="views-team">
+  <mj-column mj-class="views-team__column pt10" css-class="views-team__column">
     <mj-text mj-class="views-team__text" css-class="views-team__text"><p>OUR TEAM</p></mj-text>
   </mj-column>
 </mj-section>
 <mj-section mj-class="views-team1" css-class="views-team1">
-  <mj-column mj-class="views-team1__column" css-class="views-team1__column">
+  <mj-group css-class="first">
+    <mj-column mj-class="views-team1__column" css-class="views-team1__column">
     <mj-image src="{{{views-team__img.src}}}" alt="{{{views-team__img.alt}}}" href="{{{views-team__img.href}}}" title="{{{views-team__img.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
 
@@ -12,28 +13,35 @@
     <mj-image src="{{{views-team__img1.src}}}" alt="{{{views-team__img1.alt}}}" href="{{{views-team__img1.href}}}" title="{{{views-team__img1.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
 
-  <mj-column mj-class="views-team1__column2" css-class="views-team1__column2">
+  </mj-group>
+  <mj-group css-class="first">
+    <mj-column mj-class="views-team1__column2" css-class="views-team1__column2">
     <mj-image src="{{{views-team__img2.src}}}" alt="{{{views-team__img2.alt}}}" href="{{{views-team__img2.href}}}" title="{{{views-team__img2.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
 
   <mj-column mj-class="views-team1__column3" css-class="views-team1__column3">
     <mj-image src="{{{views-team__img3.src}}}" alt="{{{views-team__img3.alt}}}" href="{{{views-team__img3.href}}}" title="{{{views-team__img3.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
+  </mj-group>
 </mj-section>
 <mj-section mj-class="views-team2" css-class="views-team2">
-  <mj-column mj-class="views-team1__column" css-class="views-team1__column">
+  <mj-group css-class="first">
+    <mj-column mj-class="views-team1__column" css-class="views-team1__column">
     <mj-image src="{{{views-team__img4.src}}}" alt="{{{views-team__img4.alt}}}" href="{{{views-team__img4.href}}}" title="{{{views-team__img4.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
 
   <mj-column mj-class="views-team1__column1" css-class="views-team1__column1">
     <mj-image src="{{{views-team__img5.src}}}" alt="{{{views-team__img5.alt}}}" href="{{{views-team__img5.href}}}" title="{{{views-team__img5.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
+  </mj-group>
 
-  <mj-column mj-class="views-team1__column2" css-class="views-team1__column2">
+  <mj-group css-class="first">
+    <mj-column mj-class="views-team1__column2" css-class="views-team1__column2">
     <mj-image src="{{{views-team__img6.src}}}" alt="{{{views-team__img6.alt}}}" href="{{{views-team__img6.href}}}" title="{{{views-team__img6.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
 
   <mj-column mj-class="views-team1__column3" css-class="views-team1__column3">
     <mj-image src="{{{views-team__img7.src}}}" alt="{{{views-team__img7.alt}}}" href="{{{views-team__img7.href}}}" title="{{{views-team__img7.title}}}" mj-class="views-team1__image" css-class="views-team1__image" />
   </mj-column>
+  </mj-group>
 </mj-section>

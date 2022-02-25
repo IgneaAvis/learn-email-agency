@@ -25,6 +25,7 @@
   </mj-head>
 
   <mj-body css-class="body">
+  <!-- 161614 -->
 
     <mj-wrapper mj-class="main-wrapper" css-class="main-wrapper">
       <mj-include path="views/views-menu.mjml" />
@@ -34,6 +35,7 @@
       <mj-include path="views/views-rounds.mjml" />
       <mj-include path="views/views-team.mjml" />
       <mj-include path="views/views-phylosophy.mjml" />
+      <mj-include path="views/views-counts.mjml" />
       <mj-include path="views/views-comments.mjml" />
       <mj-include path="views/views-readmore.mjml" />
       <mj-include path="views/views-tech.mjml" />

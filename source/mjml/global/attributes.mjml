@@ -82,15 +82,17 @@
   <mj-class name="pt60"                      padding-top="60px" />
 
   <!-- blocks -->
+
   <mj-class name="main-wrapper"              background-url="/image/img-agency-main-bg.jpg"
                                              full-width="full-width"
                                              border-radius="0px"
                                              background-repeat="no-repeat"
                                              background-attachment="local"
                                              background-size="100% auto"/>
+  <!-- header -->
+
   <mj-class name="views-header__text"        color="#ffffff"/>
   <mj-class name="views-header__image"       width="64px" />
-  <mj-class name="views-pluse__image"        width="106px"/>
   <mj-class name="views-header__button"      width="274px"
                                              background-color="#f7e110"
                                              color="#ffffff"
@@ -99,6 +101,8 @@
                                              padding="0"
                                              margin="0"
                                              border-radius="50px"/>
+  <!-- pluse -->
+  <mj-class name="views-pluse__image"        width="106px"/>
   <mj-class name="views-pluse__button"       width="123px"
                                              background-color="#000000"
                                              color="#ffffff"
@@ -117,6 +121,7 @@
                                              line-height="22px";
                                              text-align="center";
                                              color="#ffffff";/>
+  <!-- process -->
   <mj-class name="views-process__title"      color="#555555"/>
   <mj-class name="views-process"             background-color="#ffffff"/>
   <mj-class name="views-process__column1"    padding="10px 20px"/>
@@ -133,6 +138,8 @@
                                              align="left"
                                              font-size="14px";
                                              line-height="22px";/>
+
+  <!-- rounds -->
   <mj-class name="views-rounds"              background-color="#f7e110"/>
   <mj-class name="views-rounds__image"       width="96px"/>
   <mj-class name="views-rounds__text"        font-size="12px";
@@ -141,6 +148,143 @@
                                              text-align:"center";
                                              text-transform="uppercase";
                                              color="#ffffff";
-                                             padding-top="15px"/>
+                                             padding-top="15px";/>
+  <!-- team -->
+  <mj-class name="views-team1__image"        width="125px"
+                                             width="100%"/>
+  <mj-class name="views-team"                background-color="#ffffff"/>
+  <mj-class name="views-team1"               background-color="#ffffff"/>
+  <mj-class name="views-team2"               background-color="#ffffff"/>
+  <mj-class name="views-team__text"          font-size="30px";
+                                             font-weight="700";
+                                             line-height="46px";
+                                             text-align="center";
+                                             text-transform="uppercase";
+                                             color="#555555";/>
+  <!-- process -->
+  <mj-class name="views-process"             background-color="#efefef"/>
+  <!-- counts -->
+  <mj-class name="views-counts"              background-color="#f7e110"
+                                             padding-right="10px"
+                                             padding-left="10px"/>
+  <mj-class name="views-counts__image"       padding="10px";
+                                             color="#ffffff" ;/>
+  <mj-class name="views-counts__title"       font-size="22px";
+                                             font-weight="700";
+                                             line-height="34px";
+                                             text-align="center";
+                                             text-transform="uppercase";
+                                             padding="10px";
+                                             color="#ffffff" ;/>
+  <mj-class name="views-counts__text"        font-size="12px";
+                                             font-weight="700";
+                                             line-height="22px";
+                                             text-align="center";
+                                             text-transform="uppercase";
+                                             color="#ffffff" ;
+                                             padding="10px";/>
+  <!-- comments -->
+  <mj-class name="views-comments"            padding-top="30px"
+                                             background-color="#ffffff"
+                                             padding-right="40px"
+                                             padding-left="40px"/>
+  <mj-class name="views-comments__title"     font-size="30px";
+                                             font-weight="700";
+                                             line-height="46px";
+                                             text-align="center";
+                                             text-transform="uppercase";
+                                             color="#555555";/>
+  <mj-class name="views-comments__text"      font-size="16px";
+                                             font-style="italic";
+                                             line-height="24px";
+                                             text-align="center";
+                                             color="#555555";/>
+  <mj-class name="views-comments__author"    font-size="16px";
+                                             font-style="italic";
+                                             line-height="24px";
+                                             text-align="center";
+                                             color="#555555";/>
+  <!-- readmore -->
+  <mj-class name="views-readmore__column"    background-color="#f7e110";/>
+  <mj-class name="views-readmore__column1"   background-color="#a1a1a1";/>
+  <mj-class name="views-readmore__accordion" border="none";
+                                             padding="0"/>
+  <mj-class name="views-readmore__accordion-element"
+                                             background-color="#f7e110";
+                                             />
+  <mj-class name="views-readmore__accordion-element1"
+                                             background-color="#a1a1a1";/>
+  <mj-class name="views-readmore__accordion-title"
+                                             color="#ffffff";
+                                             font-size="24px";
+                                              />
+  <mj-class name="views-readmore__button"    background-color="#000000"
+                                             color="#ffffff"
+                                             font-size="12px"
+                                             line-height="18px"
+                                             text-transform="uppercase"
+                                             border-radius="50px"/>
+  <mj-class name="views-readmore__button1"    background-color="#000000"
+                                             color="#ffffff"
+                                             font-size="12px"
+                                             line-height="18px"
+                                             text-transform="uppercase"
+                                             border-radius="50px"/>
+  <mj-class name="views-readmore__accordion-text"
+                                             font-size="14px"
+                                             line-height="22px"
+                                             color="#ffffff"/>
+  <!-- tech -->
+  <mj-class name="views-tech"                background-color="#ffffff"/>
+  <mj-class name="views-tech__title"         font-size="24px";
+                                             font-weight="700";
+                                             line-height="36px";
+                                             text-align="center";
+                                             color="#555555";/>
+  <mj-class name="views-tech__text"          font-size="14px";
+                                             line-height="22px";
+                                             text-align="center";
+                                             color="#555555";/>
+  <!-- contact us -->
+  <mj-class name="views-contactus"           background-color="#000000"/>
+  <mj-class name="views-contactus__title"    color="#ffffff"/>
+  <mj-class name="views-contactus__button"   background-color="#f7e110"
+                                             width="130px"
+                                             height="38px"
+                                             border-radius="50px"
+                                             color="#ffffff"
+                                             font-size="12px"
+                                             line-height="18px"
+                                             text-transform="uppercase"/>
+  <!-- addings -->
+  <mj-class name="views-addings"             background-color="#ffffff"/>
+  <mj-class name="views-addings__column"     padding="10px 20px"/>
+  <mj-class name="views-addings__column1"    padding="10px 20px"/>
+  <mj-class name="views-addings__title"      font-size="24px"
+                                             color="#555555"
+                                             line-height="36px"
+                                             font-weight="700"
+                                             align="left"/>
+  <mj-class name="views-addings__text"       font-size="14px"
+                                             color="#555555"
+                                             align="left"/>
 
+  <!-- footer -->
+  <mj-class name="views-footer"              background-color="#f7e110"/>
+  <mj-class name="views-footer__image"       width="128px"
+                                             padding="10px 20px"
+                                             padding-bottom="28px" />
+  <mj-class name="views-footer__phone"       padding-bottom="0px"
+                                             font-size="14px"
+                                             line-height="22px" />
+  <mj-class name="views-footer__email"       padding-bottom="0px"
+                                             font-size="14px"
+                                             line-height="22px" />
+  <mj-class name="views-footer__address"     padding-bottom="0px"
+                                             font-size="14px"
+                                             line-height="22px" />
+  <mj-class name="views-footer__social"      icon-size="32px"
+                                             padding-top="30px" />
+  <!-- underfooter -->
+  <mj-class name="views-underfooter"         background-color="#000000";/>
 </mj-attributes>
